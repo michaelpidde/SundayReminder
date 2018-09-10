@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Sunday Reminder",
+  "Author": "Michael Pidde",
+  "Version": "1.0.0",
+  "Description": "Reminds you that it's Sunday so you can be lazy and watch cooking shows.",
+  "UniqueID": "MichaelPidde.SundayReminder",
+  "EntryDll": "SundayReminder.dll",
+  "UpdateKeys": []
+}
